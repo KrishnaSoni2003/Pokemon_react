@@ -1,0 +1,17 @@
+1] In this application, main two components are the list of pokemons' names (20 on one page)
+and pagination which alows us to go forward and backward through th pages available.
+
+2] Axios is a library used to fetch from api which makes it easier 
+than default fetch from the browser.
+
+3] Names are fetched from pokeapi.
+
+4] UseEffect is used so that if anything in the application
+changes, the content inside the UseEffect function re-renders
+only once.
+
+5] <> </> must be used when returning more than one object,
+because otherwise javascript allows to return only one 
+object.
+
+Reference from: Web Dev Simplified : https://youtu.be/o3ZUc7zH8BE
